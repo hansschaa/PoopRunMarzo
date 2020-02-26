@@ -6440,3 +6440,13 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Set RefCameraRigRail
 [2020.02.26-06.12.43:431][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
 [2020.02.26-06.12.43:886][831]LogSavePackage: Moving '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Saved/BPMyGameStateA09209184833F6BB90F05D9231422317.tmp' to '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Content/ThirdPersonBP/Blueprints/BPMyGameState.uasset'
 [2020.02.26-06.12.45:887][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.26-06.13.38:502][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.26-06.13.38:643][337]LogSavePackage: Moving '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Saved/BPMyGameState077F8E5E40D180CEB91AD4B183D05B57.tmp' to '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Content/ThirdPersonBP/Blueprints/BPMyGameState.uasset'
+[2020.02.26-06.13.39:140][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.26-06.13.39:843][404]LogSavePackage: Moving '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Saved/ThirdPersonCharacter2DF1902444D2DAED0013CEAB92EDCB25.tmp' to '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.26-06.13.40:270][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.26-06.13.41:563][503]LogSavePackage: Moving '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Saved/WBP_InGame3CDCACBA48359628B07B3DAE652E26D4.tmp' to '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Content/ThirdPersonBP/Blueprints/WBP/WBP_InGame.uasset'
+[2020.02.26-06.13.42:374][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.26-06.13.43:706][628]LogSavePackage: Moving '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Saved/CollectablePoop4B3F1F0244B103DA5108F3BA66162E79.tmp' to '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Content/ThirdPersonBP/Blueprints/PipeObjects/CollectablePoop.uasset'
+[2020.02.26-06.13.44:067][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.26-06.13.45:141][711]LogSavePackage: Moving '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Saved/WBP_InGame8FCFE2C14DF55D682967AFB72EBEA2DB.tmp' to '../../../../../../Users/Hans Schaa/Desktop/Unreal Projects/PoopRun2/Poop/Content/ThirdPersonBP/Blueprints/WBP/WBP_InGame.uasset'
